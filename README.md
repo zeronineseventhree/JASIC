@@ -1,0 +1,12 @@
+# JASIC
+Just Another Space Invaders Clone
+
+CONTROLS:
+
+LEFTARROW = MOVE LEFT
+
+RIGHTARROW = MOVE RIGHT
+
+SPACEBAR = SHOOT LASER
+
+Q = EXIT
