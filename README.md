@@ -1,9 +1,9 @@
 # JASIC
-JUST ANOTHER SPACE INVADERS CLONE. MADE WITH THE ASSISTANCE OF PYTHON CRASH COURSE, 2ND EDITION BY ERIC MATTHES.
+Just Another Space Invaders Clone. Made with the assistance of Python Crash Course, 2nd Edition by Eric Matthes.
 
 OBJECTIVE: 
 
-SHOOT DOWN INCREASINGLY FAST WAVES OF ALIEN INVADERS WITH YOUR SPACESHIP UNTIL YOU GET EPILEPSY AND LOSE. GOOD LUCK.
+Shoot down increasingly fast waves of alien invaders with your spaceship until you get epilepsy and lose. Good luck.
 
 CONTROLS:
 
